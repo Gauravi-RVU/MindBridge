@@ -72,7 +72,7 @@ Frontend (React.js)
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/MindBridge.git
+git clone https://github.com/Gauravi-RVU/MindBridge
 cd MindBridge
 ```
 
